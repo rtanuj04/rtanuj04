@@ -17,7 +17,7 @@
 * 💼 **Interests:** Web Dev • Python • Open Source • Graphic Designer
 * 🌱 **Learning:** React  • DSA • Cloud Basics
 * 🤝 **Open to:** Collabs, internships, hackathons
-* ✉️ **Reach me at:** [your.email@example.com](mailto:your.email@example.com)
+* ✉️ **Reach me at:** [rtanuj04@gmail.com](mailto:rtanuj04@gmail.com)
 
 > “Stay hungry. Stay foolish.” — Steve Jobs
 
